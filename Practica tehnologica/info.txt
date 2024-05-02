@@ -1,0 +1,14 @@
+Tehnologii aplicatie:
+	meniu:
+	-carti
+		-adaugare
+		-afisare
+			-la apasarea unei carti se deschide mai jos un panou unde putem modifica sau sterge cartile
+	-cititori
+		-adaugare
+		-afisare
+			-la apasarea unui cititor se deschide mai jos un panou unde putem modifica sau sterge cititorul
+	-imprumut arte
+		-va fi posibilitatea de ales studentul si cartea care o imprumuta. Nu poate imprumuta mai mult de 3 carti.
+	-return carte
+		-vom putea cauta imprumuturile unui citator, iar la apasarea unei linii e va dezschide un panou unde vedem toate datele si avem un buton return.

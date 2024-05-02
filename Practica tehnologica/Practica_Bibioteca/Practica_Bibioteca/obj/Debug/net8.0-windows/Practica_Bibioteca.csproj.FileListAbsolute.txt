@@ -1,0 +1,16 @@
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.exe
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.deps.json
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.runtimeconfig.json
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.pdb
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form1.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.GenerateResource.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.AssemblyInfoInputs.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.AssemblyInfo.cs
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.CoreCompileInputs.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\refint\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.pdb
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.genruntimeconfig.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\ref\Practica_Bibioteca.dll
