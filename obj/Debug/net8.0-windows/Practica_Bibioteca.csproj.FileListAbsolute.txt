@@ -1,0 +1,87 @@
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.exe
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.deps.json
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.runtimeconfig.json
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.pdb
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form1.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.GenerateResource.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.AssemblyInfoInputs.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.AssemblyInfo.cs
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.CoreCompileInputs.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\refint\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.pdb
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.genruntimeconfig.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\ref\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\System.Management.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.AssemblyReference.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Properties.Resources.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.CopyComplete
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form2ContNou.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form3DashBoard.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form4AddBook.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form4_AddBook.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form4_AddAutor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form5ShowBook.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form5_vizualizareCarte.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form5_AddAutor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form6AddCititor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form6_addCititor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form7_ShowCititor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form7_showCititor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form8_cautaCarte.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form8_Imprumut.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form9_Return.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form9_return.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Practica_Bibioteca\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.exe
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.deps.json
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.runtimeconfig.json
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\Practica_Bibioteca.pdb
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\System.Management.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.AssemblyReference.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form1.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form2ContNou.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form3DashBoard.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form4AddBook.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form5ShowBook.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form6AddCititor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form7_ShowCititor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form8_Imprumut.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form9_Return.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Properties.Resources.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form4_AddBook.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form5_AddAutor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form5_vizualizareCarte.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form6_addCititor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.UserControl_form7_showCititor.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.GenerateResource.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.AssemblyInfoInputs.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.AssemblyInfo.cs
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.CoreCompileInputs.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.csproj.CopyComplete
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\refint\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.pdb
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.genruntimeconfig.cache
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\ref\Practica_Bibioteca.dll
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form9_Report.resources
+D:\CEITI\Obiecte\ANUL3\Practica tehnologica\Save points\27.05.2024\Practica_Bibioteca\obj\Debug\net8.0-windows\Practica_Bibioteca.Form10.resources
